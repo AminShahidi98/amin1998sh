@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amin1998sh
+- 👋 Hi, I’m Mohammad Amin Shahidi
 - 👀 I’m interested in python coding and working as a django developer
 - 🌱 I’m currently learning computer engineering at IUST, Teran, Iran.
-- 📫 How to reach me: shahidi_m@comp.iust.ac.ir
+- 📫 How to reach me: amin7799sh@gmail.com
 
 <!---
 amin1998sh/amin1998sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
