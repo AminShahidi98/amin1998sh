@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Amin Shahidi
 - 👀 I’m interested in python coding and working as a django developer
-- 🌱 I’m currently learning computer engineering at IUST, Teran, Iran.
+- 🌱 Graduated in computer engineering from IUST, Teran, Iran.
 - 📫 How to reach me: amin7799sh@gmail.com
 
 <!---
